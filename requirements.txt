@@ -1,18 +1,13 @@
-# Core Data and ML Essentials
+# --- Core Data & ML Essentials ---
 pandas==2.2.2
 numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
 
-# Visualization Libraries
+# --- Visualization & Interactive Charts ---
 matplotlib==3.9.1
 seaborn==0.13.2
+plotly==5.24.1
 
-# Machine Learning Library (used for all models)
-scikit-learn==1.5.1
-
-# Model Saving and App Integration
-joblib==1.4.2
+# --- Web App Framework ---
 streamlit==1.38.0
-
-# Notebook Environment
-jupyterlab==4.2.5
-notebook==7.2.1
