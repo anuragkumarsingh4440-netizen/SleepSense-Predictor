@@ -1,0 +1,8 @@
+{
+  "ridge_best_alpha": 50,
+  "ridge_r2": 0.4603120535031032,
+  "ridge_rmse": 6.368426667174588,
+  "lasso_best_alpha": 0.01,
+  "lasso_r2": 0.4603180733518055,
+  "lasso_rmse": 6.368391149360857
+}

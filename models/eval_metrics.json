@@ -1,0 +1,25 @@
+{
+  "mse": 40.5567,
+  "rmse": 6.3684,
+  "mae": 5.0658,
+  "r2": 0.460314,
+  "adjusted_r2": 0.457373,
+  "mape_pct": 10.046,
+  "n_test": 2400,
+  "n_features": 13,
+  "features_used": [
+    "sleep_deficit",
+    "digital_fatigue",
+    "env_stress",
+    "lifestyle_balance",
+    "late_snack_effect",
+    "fatigue_env_interaction",
+    "is_metro",
+    "avg_sleep_hours",
+    "screen_time_hours",
+    "stress_level",
+    "physical_activity_min",
+    "age",
+    "family_size"
+  ]
+}
