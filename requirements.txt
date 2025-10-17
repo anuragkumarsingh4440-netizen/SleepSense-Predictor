@@ -1,13 +1,15 @@
-# --- Core Data & ML Essentials ---
+# SleepSense Deployment Requirements
+
+# --- Core ---
 pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.5.1
 joblib==1.4.2
 
-# --- Visualization & Interactive Charts ---
+# --- Visualization ---
 matplotlib==3.9.1
 seaborn==0.13.2
 plotly==5.24.1
 
-# --- Web App Framework ---
+# --- Web App ---
 streamlit==1.38.0
